@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">TourDelhi</string>
+    <string name="category_places">Places to visit</string>
+    <string name="category_info">Info</string>
+    <string name="category_shops">Shops</string>
+    <string name="category_food">Restaurants</string>
+    <string name="food_kilo_name">Kilo Kitchen Biryanis and More</string>
+    <string name="food_kilo_description">Cuisines:Biryani, North Indian, Mughlai, Indian, Kebab </string>
+    <string name="food_kilo_address">DLF Phase 1 </string>
+    <string name="food_kilo_phone">011 30806571</string>
+    <string name="food_kilo_schedule">Opening hours:12Noon to 12Midnight</string>
+    <string name="food_price_two">₹700 for two people (approx.) </string>
+    <string name="food_Friction_name">Friction The Drinkery</string>
+    <string name="food_Friction_description">Cuisines:North Indian, Biryani, Thai .</string>
+    <string name="food_Friction_address">SCO 388, Near Iffco chowk metro station, Sector 29, Gurgaon </string>
+    <string name="food_Friction_phone">011 33105209</string>
+    <string name="food_Friction_schedule">\"Mo-Su 12Noon to 1AM</string>
+    <string name="food_pho_name">Pho King</string>
+    <string name="food_pho_description">Cuisines:Asian, Continental, Mexican, Indian </string>
+    <string name="food_pho_address">Khasra 258, Lane-3, West End Marg, Saidulajab, Saket, New Delhi </string>
+    <string name="food_pho_phone">011 33105003</string>
+    <string name="food_pho_schedule">Mo-Su 11:30–23:30</string>
+    <string name="food_price_four">$$$$</string>
+    <string name="food_Decode_name">Decode</string>
+    <string name="food_Decode_description">Restaurant specialised in sukiyaki and shabu shabu.</string>
+    <string name="food_Decode_address">3-17-5 hauz khas,Delhi</string>
+    <string name="food_Decode_phone">+91 3-3226-0667</string>
+    <string name="food_Decode_schedule">Mo-Su </string>
+    <string name="food_price_one">$</string>
+
+    <string name="info_1">Tourist Offices</string>
+    <string name="info_1_description">Andaman and Nicobar
+ F - 104/105, Curzon Road Hostel
+ Kasturba Gandhi Marg,
+ New Delhi - 110 001
+ Ph. 3782945</string>
+    <string name="info_2">In Punjab:</string>
+    <string name="info_2_description">Punjab
+ Tourist Information Centre, 214, Kanishka Shopping Plaza,
+ 19, Ashok Road, New Delhi - 110 001
+ Ph. 3343055
+</string>
+
+    <string name="shop_CITYWALK_name">CITYWALK</string>
+    <string name="shop_CITYWALK_description">CITYWALK is a shopping centre located in the Saket District Centre, in Saket, New Delhi.
+        The 1,300,000 sq ft retail development is spread over 6 acres and includes a 4 km long multiplex, serviced apartments, offices and public spaces.</string>
+    <string name="shop_CITYWALK_address">A-3, Saket District Centre, District Centre, Sector 6, Pushp Vihar, New Delhi, Delhi 110017</string>
+    <string name="shop_CITYWALK_phone">+91 3-9289-9933</string>
+    <string name="shop_CITYWALK_schedule">Mo-Sat</string>
+    <string name="shop_pacific_name">Pacific Mall</string>
+    <string name="shop_pacific_description">Great shopping mall.Selling of second hand items too.</string>
+    <string name="shop_pacific_address">PACIFIC MALL, TAGORE GARDEN, Pillar No. 464, Najafgarh Rd, New Delhi, 110018</string>
+    <string name="shop_pacific_phone">+73-5289-3376</string>
+    <string name="shop_pacific_schedule">Mo-Su</string>
+    <string name="shop_dlf_name">DLF Emporio</string>
+    <string name="shop_dlf_description">DLF Emporio is a high-street shopping mall situated Vasant Kunj, New Delhi.
+        In 2007, it was reported as one of the most expensive malls in the country with very high rental rates per month..</string>
+    <string name="shop_dlf_address">4, Nelson Mandela Road, Vasant Kunj, New Delhi, Delhi 110070</string>
+    <string name="shop_dlf_phone">+78388-7630</string>
+    <string name="shop_dlf_schedule">Mo-Su</string>
+
+
+    <string name="place_red_fort_name">Red Fort</string>
+    <string name="place_red_fort_description">The Red Fort is an epitome of the Mughal era in India and is the face of tourist attractions in Delhi. Built in 1638, it is an outstanding marvel of Mughal architecture made of red sand stone. Within its magnanimous walls, the chhata bazaar and an every evening sound and light show are special attractions.
+    </string>
+    <string name="place_red_fort_address">Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi 110006</string>
+    <string name="place_red_fort_phone">Phone: 011 2327 7705</string>
+    <string name="place_red_fort_schedule">Opening hours: 9 am to 6 pm. Closed on Mondays</string>
+    <string name="place_red_fort_fee">Free for children under 15, INR 10 for Indians, and INR 250 for foreigners
+</string>
+    <string name="place_indiagate_name">INDIA GATE</string>
+    <string name="place_indiagate_description">India Gate is one monument that defines Delhi or India for that matter. It was built in 1931 as a memorial for martyrs of World War I and war in Afghanistan. At Rajpath, the structure looks amazing in evening lights. The gardens that line the structure are a must visit among the sightseeing places in Delhi.
+    </string>
+    <string name="place_indiagate_address">Rajpath Marg, India Gate, New Delhi, Delhi 110001</string>
+    <string name="place_indiagate_phone">011 2336 5358</string>
+    <string name="place_indiagate_schedule">Opening hours: Always open</string>
+    <string name="place_indiagate_free">Free</string>
+    <string name="place_QutubMinar_name">QUTUB MINAR</string>
+    <string name="place_QutubMinar_description">
+        Among the other places to visit in Delhi, Qutub Minar stands tall with its 73 meter tall brick minaret.
+        Built by Qutub-ud-din Aibak, the structure has five stories abundant with chiseled carvings and scriptures.
+    </string>
+    <string name="place_QutubMinar_address">Mehrauli, New Delhi, Delhi 110030</string>
+    <string name="place_QutubMinar_phone">116578321</string>
+    <string name="place_QutubMinar_schedule">Opening hours: Sunrise until sunset, Closed on Mondays</string>
+    <string name="place_QutubMinar_fee">Entry fee: Free for children under 15, INR 10 for Indians INR 250 for foreigners</string>
+
+    <string name="place_lotus_name">LOTUS TEMPLE</string>
+    <string name="place_lotus_description">Famously known as the Lotus temple in the list of famous tourist places in Delhi, Lotus in the Bahai Temple symbolizes four religions namely Hinduism, Jainism, Buddhism and Islam. This temple belongs to the Bahai faith which proclaims that all people and religions are united.
+        Worshippers of every religion are welcomed here.</string>
+    <string name="place_lotus_address"> Lotus Temple Rd, Bahapur, Shambhu Dayal Bagh, Kalkaji, New Delhi, Delhi 110019</string>
+    <string name="place_lotus_phone">Not Available</string>
+    <string name="place_lotus_schedule">Opening hours: from 9 am till sunset</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
+
